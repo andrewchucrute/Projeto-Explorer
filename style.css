@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+:root {
+    font-size: 62.5%;
+
+    --segunda: #1F1534;
+    --terça: #89C5CC;
+    --quarta: #7D7987;
+    --quinta: #69B99D;
+}
+
+body {
+    font-size: 1.6rem;
+    height: 100%;
+    margin: 0;
+    background: linear-gradient(180deg, rgba(0, 215, 161, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
+}
+
+
+li a {
+    color: #7D7987;
+    font-size: 2rem;
+}
+
+
+
+.pag {
+    
+    display: flex;
+    flex-direction: column;
+
+    position: relative;
+    margin: 0 auto;
+    padding-top: 65px;
+    cursor: pointer;
+}
+ul li a:hover {
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+ul li #co:hover {
+color: rgb(65, 62, 44);
+}
+
+li #co{
+    color: black;
+    font-weight: bolder;
+}
+
+header {
+
+    margin-top: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+ul {
+    display: flex;
+    gap: 48px;
+    margin: 0;
+    padding: 0;
+}
+
+#fuc {
+    color: var(--terça);
+    
+}
+
+h1 {
+    font-style: normal;
+    font-size: 5rem;
+    
+}
+
+#logo {
+    margin-right: 15rem;
+
+    width: 20rem;
+}
+
+
+main {
+    display: flex;
+    text-align: start;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+ 
+    gap: 15rem;
+}
+
+button {
+    cursor: pointer;
+    margin-top: 3rem;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 32px 15px;
+    gap: 10px;
+    background-color: var(--quinta);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+  
+}
+
+p {
+    font-size: 17px;
+    line-height: 28px;
+    color: var(--quarta);
+    margin: 0;
+    font-family: 'Open Sans';
+}
+
+
+footer p {
+    font-family: 'Open Sans';
+    color: var(--segunda);
+    font-weight: normal;
+    font-size: 1.8rem;
+
+}
+
+footer a {
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+footer {
+    margin-top: 20rem;
+    display: flex;
+
+    justify-content: center;
+}
+
+
+#desc2 {
+    margin-bottom: 40px;
+    padding-left: .5rem;
+    font-size: 1.7rem;
+
+}
+
+button:hover {
+    background-color: rgb(80, 73, 28);
+    transition: 0.3s;
+    
+}
+
+strong {
+    color: var(--terça);
+}
+
+#desc {
+    padding: 1.5rem;
+    margin-top: 40px;
+    padding-left: .5rem;
+    font-size: 1.7rem;
+
+}
+
+
+#balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+p {
+    color: var(--quarta);
+}
