@@ -3,6 +3,11 @@
 
 Pequeno projeto
 
+## 🛠️ Ferramentas 🛠️
+- HTML 
+- CSS
+
+
 [Click aqui para acessar!](https://andrewchucrute.github.io/Projeto-Explorer/)
 
 
