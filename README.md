@@ -1,6 +1,9 @@
 # Projeto-Explorer
-Pequeno projeto do explorer, sem responsividade.
-<br>
-https://andrewchucrute.github.io/Projeto-Explorer/
 
-![image](https://user-images.githubusercontent.com/103382295/187098486-53396528-fe19-4551-9366-37de2b2fc80f.png)
+
+Pequeno projeto
+
+[Click aqui para acessar!](https://andrewchucrute.github.io/Projeto-Explorer/)
+
+
+![andrewchucrute github io_Projeto-Explorer_](https://user-images.githubusercontent.com/103382295/190900621-82d074bf-c444-4e12-b777-4d56d60161ba.png)
